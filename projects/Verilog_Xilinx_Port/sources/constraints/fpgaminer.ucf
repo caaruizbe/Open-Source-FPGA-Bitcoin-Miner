@@ -21,11 +21,11 @@ NET "anode<0>" LOC = "F17";
 NET "anode<1>" LOC = "H17";
 NET "anode<2>" LOC = "C18";
 NET "anode<3>" LOC = "F15";
-
-#NET "led<7>" LOC = "R4";
-#NET "led<6>" LOC = "F4";
-#NET "led<5>" LOC = "P15";
-#NET "led<4>" LOC = "E17";
+                          //nexys 2 1600k
+#NET "led<7>" LOC = "R4"; //"P4"
+#NET "led<6>" LOC = "F4"; //"E4"
+#NET "led<5>" LOC = "P15";//"P16"
+#NET "led<4>" LOC = "E17";//"E16"
 #NET "led<3>" LOC = "K14";
 #NET "led<2>" LOC = "K15";
 #NET "led<1>" LOC = "J15";
